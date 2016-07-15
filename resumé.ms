@@ -3,7 +3,7 @@
 .ce 2
 .ps 24
 Benjamin Scher Purcell
-.vs 6p
+.vs 4p
 \l'18'
 .ps 9
 .vs 13p
