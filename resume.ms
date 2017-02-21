@@ -118,6 +118,7 @@ internal scripting language.
 .	IP -
 Scale of automated management was on the order of hundreds of servers.
 .RE
+.bp
 .IP •
 .B "WiredTree Managed Hosting" "—Chicago, IL"
 .br
@@ -225,7 +226,6 @@ creation and type-checked channel passing between
 threads.
 .IP -
 Fluent in Spanish.
-.IP \0 10n
-.ps 8
+.IP -
 I maintain a portfolio of personal work at
 .CW https://github.com/spewspews
