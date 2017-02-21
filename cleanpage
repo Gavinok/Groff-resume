@@ -1,4 +1,0 @@
-#!/bin/rc
-
-sed '/%%EndPage: 1 1/q' $1 > tmp
-mv tmp $1
