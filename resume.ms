@@ -8,7 +8,6 @@ Benjamin Scher Purcell
 \l'43'
 .vs 10p
 .I
-.SM
 .tl '5303 N. Rockwell St. Apt 1, Chicago IL 60625' \0 '(248) 622-1747—benjapurcell@gmail.com'
 .LP
 .vs 20p
@@ -16,10 +15,11 @@ Benjamin Scher Purcell
 .UL "Objective"
 .LP
 .ps 10
-Skilled software developer proficient in multiple languages and complex 
-software design seeking an 
+Skilled software engineer proficient in multiple languages
+and complex software designs seeking a position as a
+developer working on the cutting edge of technology,
+tools, and ideas.
 .LP
-.vs 20p
 .ps 12
 .UL "Career History"
 .br
@@ -44,8 +44,8 @@ complexity. Has a fully graphical front-end which allows for creation
 of new bodies/galaxies among other interactive features.
 .	IP -
 Wrote an assembler/emulator for the
-.B MIX
-computer architecture. This is the computer architecture used for
+.I MIX
+computer architecture. This is the computer architecture used in
 the seminal computer science textbook
 .I "The Art of Computer Programming" .
 It can compile and execute all examples and exercises from
@@ -158,9 +158,10 @@ Agile/Scrum methodology.
 .IP -
 API design.
 .IP -
-Algorithms and Data Structures.
+Advanced knowledge of the implementation of algorithms
+and data structures.
 .IP -
-Skilled  experience with the various and issues and pitfalls
+Skilled  experience with the various issues and pitfalls
 of maintaining legacy code and reducing technical debt.
 .LP
 .ps 12
@@ -217,14 +218,14 @@ the 1-dimensional same game,"
 .I "The Fibonacci Quarterly" ,
 Volume 45 Number 3, August 2007
 .IP -
-Implemented numerous synthetic network filesystems.
-.IP -
 I have written a C programming language compiler
 extension that adds support for
 concurrency operations such as type-checked thread
 creation and type-checked channel passing between
 threads.
+.IP -
+Fluent in Spanish.
 .IP \0 10n
 .ps 8
 I maintain a portfolio of personal work at
-.CW https://github.com/spewspew
+.CW https://github.com/spewspews
