@@ -1,12 +1,13 @@
 </sys/doc/fonts
 
-all:V:	resume.ps resume.pdf
+all:V:	resume.pdf cover.pdf
 
 clean:
 	rm -f *.ps *.pdf
 
 %.ps:D:	%.ms
-	eqn $stem.ms | troff -ms | lp -dstdout > $target
+	{ echo $FONTS; cat $stem.ms } | eqn |
+		troff -ms | lp -dstdout > $target
 	/sys/doc/cleanps $target
 
 %.pdf:D: %.ps

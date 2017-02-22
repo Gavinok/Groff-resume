@@ -1,4 +1,3 @@
-.FP lucidasans
 .LT
 .LP
 Dear Uptake Technologies,

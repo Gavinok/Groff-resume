@@ -1,17 +1,14 @@
-.FP lucidasans
 .nr PI 2n
 .ds CH
 .ce 2
 .ps 20
-Benjamin Scher Purcell
-.vs 4p
+.UL "Benjamin Scher Purcell"
+.sp 0.3
 .ps 9
-\l'48'
-.vs 10p
 .I
 .tl '5303 N. Rockwell St. Apt 1, Chicago IL 60625' \0 '(248) 622-1747—benjapurcell@gmail.com'
+.sp .5
 .LP
-.vs 20p
 .ps 12
 .UL "Objective"
 .LP
@@ -20,11 +17,12 @@ Skilled software engineer proficient in multiple languages
 and complex software designs seeking a position as a
 developer working on the cutting edge of technology,
 tools, and ideas.
+.sp .4
 .LP
 .ps 12
 .UL "Career History"
 .br
-.vs 2p
+.KS
 .IP •
 .ps 10
 .B Sabbatical/Break "—Mexico City, Mexico"
@@ -71,6 +69,8 @@ check for an experimental new
 .I "Plan 9"
 filesystem.
 .RE
+.KE
+.KS
 .IP •
 .B "Backstop Solutions Group" "—Chicago, IL"
 .br
@@ -103,6 +103,8 @@ with the CRM.
 .I WPF \0 C#/
 frontend, interfacing with REST backend in Java.
 .RE
+.KE
+.KS
 .IP •
 .B "IPsoft Inc." "—Chicago, IL"
 .br
@@ -119,7 +121,8 @@ internal scripting language.
 .	IP -
 Scale of automated management was on the order of hundreds of servers.
 .RE
-.bp
+.KE
+.KS
 .IP •
 .B "WiredTree Managed Hosting" "—Chicago, IL"
 .br
@@ -131,10 +134,12 @@ Supervisor of Technical Support/Devops Engineer: September
 .	IP -
 Supervised teams of 3–5 support administrators and set
 system administration policies.
-.	IP -
+.		IP -
 Created software for deployment, automation,
 and monitoring of servers for in-house use.
 .RE
+.KE
+.KS
 .IP •
 .B "The Academic Approach" "—Chicago, IL"
 .br
@@ -148,6 +153,8 @@ and charter schools.
 .	IP -
 Engineered formatting packages for published curriculum materials.
 .RE
+.KE
+.sp .4
 .LP
 .ps 12
 .UL "Skill Highlights"
@@ -165,10 +172,12 @@ and data structures.
 .IP -
 Skilled  experience with the various issues and pitfalls
 of maintaining legacy code and reducing technical debt.
+.sp .4
 .LP
 .ps 12
 .UL Education
 .ps 10
+.KS
 .IP •
 .B "University of British Columbia" "—British Columbia, CA"
 .br
@@ -181,6 +190,8 @@ Donaldson-Thomas invariants as a generalization of Gromov-Witten invariants.
 .	IP -
 Coursework complete but I did not complete the thesis for the degree.
 .RE
+.KE
+.KS
 .IP •
 .B "Oberlin College" "—Oberlin, OH"
 .br
@@ -198,6 +209,8 @@ The Fibonacci Quarterly
 .R
 Volume 45, Number 3, August 2007.
 .RE
+.KE
+.sp .4
 .LP
 .ps 12
 .UL "Miscellaneous Achievements and Skills"
