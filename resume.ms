@@ -1,11 +1,12 @@
+.FP lucidasans
 .nr PI 2n
 .ds CH
 .ce 2
 .ps 20
 Benjamin Scher Purcell
 .vs 4p
-.ps 10
-\l'43'
+.ps 9
+\l'48'
 .vs 10p
 .I
 .tl '5303 N. Rockwell St. Apt 1, Chicago IL 60625' \0 '(248) 622-1747—benjapurcell@gmail.com'
