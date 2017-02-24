@@ -28,15 +28,14 @@ x86 assembly, and x86_64 assembly.
 .IP -
 Experienced in Agile/Scrum work methodology.
 .IP -
-Advanced knowledge of practical implementations of algorithms
-and data structures.
+Advanced practical knowledge of data structure implementation.
 .IP -
 Skilled experience with the various issues and pitfalls
 of maintaining legacy code and reducing technical debt.
 .IP -
 Highly skilled in test driven development.
 .IP -
-Passionate about following succesful prinicples of library/API design.
+Passionate about following successful prinicples of library/API design.
 .sp .4
 .LP
 .ps 12
@@ -50,7 +49,7 @@ Passionate about following succesful prinicples of library/API design.
 .I "Personal Project Work: January 2017-present"
 .RS
 .	IP -
-Wrote an 
+Created an 
 .I n -body
 simulator that models gravitational interactions
 on the order of thousands of bodies. Uses velocity verlet integration
@@ -61,6 +60,7 @@ O(n log (n))
 .EN
 complexity. Has a fully graphical front-end which allows for creation
 of new bodies/galaxies among other interactive features.
+.KE
 .	IP -
 Wrote an assembler/emulator for the
 .I MIX
@@ -76,10 +76,8 @@ intermediate representation for the backend/optimization stage. Front
 end is complete, currently working on translation to
 .I CPS
 .	IP -
-Wrote
-.I AVL
-and red-black binary search tree implementations in a number of languages:
-C, C++, Go, SML, and OCaml. This is one way I learn new languages.
+Completed various advanced data structure implementations in a
+number of languages: C, C++, Go, SML, and OCaml.
 .	IP -
 I am a developer with commit access to an actively developed
 .I "Plan 9"
@@ -89,7 +87,6 @@ check for an experimental new
 .I "Plan 9"
 filesystem.
 .RE
-.KE
 .KS
 .IP •
 .B "Backstop Solutions Group" "—Chicago, IL"
@@ -101,6 +98,7 @@ Software Engineer: April 2015–January 2017
 .	IP -
 Provided bug fixes and new development for combined CRM and financial
 accounting platform for the alternative investment community.
+.KE
 .	IP -
 Also worked on
 .I .NET
@@ -123,7 +121,6 @@ with the CRM.
 .I WPF \0 C#/
 frontend, interfacing with REST backend in Java.
 .RE
-.KE
 .KS
 .IP •
 .B "IPsoft Inc." "—Chicago, IL"
@@ -135,13 +132,13 @@ Devops Engineer: October 2014–April 2015
 .	IP -
 Wrote programs/scripts to automate systems deployments
 and uptime management for Fortune 500 level corporations.
+.KE
 .	IP -
 Primary development languages were Perl, Javascript, Bash, and a proprietary
 internal scripting language.
 .	IP -
 Scale of automated management was on the order of hundreds of servers.
 .RE
-.KE
 .KS
 .IP •
 .B "WiredTree Managed Hosting" "—Chicago, IL"
@@ -154,11 +151,11 @@ Supervisor of Technical Support/Devops Engineer: September
 .	IP -
 Supervised teams of 3–5 support administrators and set
 system administration policies.
+.KE
 .		IP -
 Created software for deployment, automation,
 and monitoring of servers for in-house use.
 .RE
-.KE
 .KS
 .IP •
 .B "The Academic Approach" "—Chicago, IL"
@@ -170,10 +167,10 @@ Mathematics Writer: October 2012–September 2013
 .	IP -
 Wrote and edited mathematics curriculum for Chicago Public Schools
 and charter schools.
+.KE
 .	IP -
 Engineered formatting packages for published curriculum materials.
 .RE
-.KE
 .sp .4
 .LP
 .ps 12
@@ -189,10 +186,10 @@ Master's Degree in Mathematics: September 2007-December 2009
 .	IP -
 Worked on applicaitons of algebraic geometry to string theory. Specifically
 Donaldson-Thomas invariants as a generalization of Gromov-Witten invariants.
+.KE
 .	IP -
 Coursework complete but I did not complete the thesis for the degree.
 .RE
-.KE
 .KS
 .IP •
 .B "Oberlin College" "—Oberlin, OH"
@@ -203,6 +200,7 @@ Bachelor's Degree in Mathematics magna cum laude: September 2002-December 2006
 .	IP -
 Graduated with an honor's thesis on
 the category theory of groups.
+.KE
 .	IP -
 Also completed original research in number theory which was 
 published in
@@ -211,7 +209,6 @@ The Fibonacci Quarterly
 .R
 Volume 45, Number 3, August 2007.
 .RE
-.KE
 .sp .4
 .LP
 .ps 12
