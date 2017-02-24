@@ -3,7 +3,7 @@
 .ce 2
 .ps 20
 .UL "Benjamin Scher Purcell"
-.sp 0.3
+.sp .3
 .ps 9
 .I
 .tl '5303 N. Rockwell St. Apt 1, Chicago IL 60625' \0 '(248) 622-1747—benjapurcell@gmail.com'
@@ -17,6 +17,26 @@ Skilled software engineer proficient in multiple languages
 and complex software designs seeking a position as a
 developer working on the cutting edge of technology,
 tools, and ideas.
+.sp .4
+.LP
+.ps 12
+.UL "Skill Highlights"
+.ps 10
+.IP -
+Expertise in a number of imperative, object-oriented, or functional programming paradigms: C, Go, Java, C#, C++, SML, OCaml, Perl, ARM assembly,
+x86 assembly, and x86_64 assembly.
+.IP -
+Experienced in Agile/Scrum work methodology.
+.IP -
+Advanced knowledge of practical implementations of algorithms
+and data structures.
+.IP -
+Skilled experience with the various issues and pitfalls
+of maintaining legacy code and reducing technical debt.
+.IP -
+Highly skilled in test driven development.
+.IP -
+Passionate about following succesful prinicples of library/API design.
 .sp .4
 .LP
 .ps 12
@@ -154,24 +174,6 @@ and charter schools.
 Engineered formatting packages for published curriculum materials.
 .RE
 .KE
-.sp .4
-.LP
-.ps 12
-.UL "Skill Highlights"
-.ps 10
-.IP -
-Expertise in C, Java, C#, C++, Go, SML, OCaml, Perl, ARM assembly,
-x86 assembly, and x86_64 assembly.
-.IP -
-Agile/Scrum methodology.
-.IP -
-API design.
-.IP -
-Advanced knowledge of the implementation of algorithms
-and data structures.
-.IP -
-Skilled  experience with the various issues and pitfalls
-of maintaining legacy code and reducing technical debt.
 .sp .4
 .LP
 .ps 12
