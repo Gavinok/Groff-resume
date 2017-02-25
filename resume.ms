@@ -35,7 +35,7 @@ of maintaining legacy code and reducing technical debt.
 .IP -
 Highly skilled in test driven development.
 .IP -
-Passionate about following successful prinicples of library/API design.
+Passionate about following successful principles of library/API design.
 .sp .4
 .LP
 .ps 12
