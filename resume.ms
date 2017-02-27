@@ -48,7 +48,7 @@ Passionate about following successful principles of library/API design.
 .br
 .I "Personal Project Work: January 2017-present"
 .RS
-.	IP -
+.IP -
 Created an 
 .I n -body
 simulator that models gravitational interactions
@@ -61,7 +61,7 @@ O(n log (n))
 complexity. Has a fully graphical front-end which allows for creation
 of new bodies/galaxies among other interactive features.
 .KE
-.	IP -
+.IP -
 Wrote an assembler/emulator for the
 .I MIX
 computer architecture. This is the computer architecture used in
@@ -69,16 +69,16 @@ the seminal computer science textbook
 .I "The Art of Computer Programming" .
 It can compile and execute all examples and exercises from
 .I TAOCP .
-.	IP -
+.IP -
 Worked on a C compiler that uses a 
 .I "continuation passing style"
 intermediate representation for the backend/optimization stage. Front
 end is complete, currently working on translation to
 .I CPS
-.	IP -
+.IP -
 Completed various advanced data structure implementations in a
 number of languages: C, C++, Go, SML, and OCaml.
-.	IP -
+.IP -
 I am a developer with commit access to an actively developed
 .I "Plan 9"
 operating system fork. I committed various bug fixes and other
@@ -95,11 +95,11 @@ filesystem.
 Software Engineer: April 2015–January 2017
 .R
 .RS
-.	IP -
+.IP -
 Provided bug fixes and new development for combined CRM and financial
 accounting platform for the alternative investment community.
 .KE
-.	IP -
+.IP -
 Also worked on
 .I .NET
 suite of applications to help executives interface with main platform via
@@ -108,10 +108,10 @@ Microsoft Office
 .R and
 Excel.
 .R
-.	IP -
+.IP -
 Developed location search functionality for the CRM platform: Javascript front-end,
 Java/Oracle backend. Allowed fund managers to find clients along multiple vectors.
-.	IP -
+.IP -
 Developed
 .I
 Microsoft Outlook
@@ -129,14 +129,14 @@ frontend, interfacing with REST backend in Java.
 Devops Engineer: October 2014–April 2015
 .R
 .RS
-.	IP -
+.IP -
 Wrote programs/scripts to automate systems deployments
 and uptime management for Fortune 500 level corporations.
 .KE
-.	IP -
+.IP -
 Primary development languages were Perl, Javascript, Bash, and a proprietary
 internal scripting language.
-.	IP -
+.IP -
 Scale of automated management was on the order of hundreds of servers.
 .RE
 .KS
@@ -148,11 +148,11 @@ Supervisor of Technical Support/Devops Engineer: September
 2013–October 2014
 .R
 .RS
-.	IP -
+.IP -
 Supervised teams of 3–5 support administrators and set
 system administration policies.
 .KE
-.		IP -
+.IP -
 Created software for deployment, automation,
 and monitoring of servers for in-house use.
 .RE
@@ -164,11 +164,11 @@ and monitoring of servers for in-house use.
 Mathematics Writer: October 2012–September 2013
 .R
 .RS
-.	IP -
+.IP -
 Wrote and edited mathematics curriculum for Chicago Public Schools
 and charter schools.
 .KE
-.	IP -
+.IP -
 Engineered formatting packages for published curriculum materials.
 .RE
 .sp .4
@@ -183,11 +183,11 @@ Engineered formatting packages for published curriculum materials.
 .I
 Master's Degree in Mathematics: September 2007-December 2009
 .RS
-.	IP -
+.IP -
 Worked on applicaitons of algebraic geometry to string theory. Specifically
 Donaldson-Thomas invariants as a generalization of Gromov-Witten invariants.
 .KE
-.	IP -
+.IP -
 Coursework complete but I did not complete the thesis for the degree.
 .RE
 .KS
@@ -197,11 +197,11 @@ Coursework complete but I did not complete the thesis for the degree.
 .I
 Bachelor's Degree in Mathematics magna cum laude: September 2002-December 2006
 .RS
-.	IP -
+.IP -
 Graduated with an honor's thesis on
 the category theory of groups.
 .KE
-.	IP -
+.IP -
 Also completed original research in number theory which was 
 published in
 .I
