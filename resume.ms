@@ -103,19 +103,15 @@ accounting platform for the alternative investment community.
 Also worked on
 .I .NET
 suite of applications to help executives interface with main platform via
-.I
-Microsoft Office
-.R and
-Excel.
-.R
+.I "Microsoft Office"
+and
+.I Excel .
 .IP -
 Developed location search functionality for the CRM platform: Javascript front-end,
-Java/Oracle backend. Allowed fund managers to find clients along multiple vectors.
+Java/Oracle backend. Allowed fund managers to find clients along multiple search vectors.
 .IP -
 Developed
-.I
-Microsoft Outlook
-.R
+.I "Microsoft Outlook"
 calendar integration with the CRM platform. Provided automatic syncing of Outlook meetings
 with the CRM.
 .I WPF \0 C#/
