@@ -10,7 +10,7 @@
 .sp .5
 .LP
 .ps 12
-.UL "Objective"
+.UL Summary
 .LP
 .ps 10
 Skilled software engineer proficient in multiple languages
@@ -23,12 +23,14 @@ tools, and ideas.
 .UL "Skill Highlights"
 .ps 10
 .IP -
-Expertise in a number of imperative, object-oriented, or functional programming paradigms: C, Go, Java, C#, C++, SML, OCaml, Perl, ARM assembly,
-x86 assembly, and x86_64 assembly.
+Expertise in a number of imperative, object-oriented,
+and functional programming paradigms: C, Go, C++, Java,
+C#, SML, OCaml, Perl, ARM assembly, x86 assembly,
+and x86_64 assembly.
 .IP -
 Experienced in Agile/Scrum work methodology.
 .IP -
-Advanced practical knowledge of data structure implementation.
+Advanced practical knowledge of data structure implementations.
 .IP -
 Skilled experience with the various issues and pitfalls
 of maintaining legacy code and reducing technical debt.

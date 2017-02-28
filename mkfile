@@ -1,5 +1,7 @@
 </sys/doc/fonts
 
+NPROC=1
+
 all:V:	resume.pdf cover.pdf
 
 clean:
