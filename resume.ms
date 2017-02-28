@@ -81,13 +81,12 @@ end is complete, currently working on translation to
 Completed various advanced data structure implementations in a
 number of languages: C, C++, Go, SML, and OCaml.
 .IP -
-I am a developer with commit access to an actively developed
+I work on and am an active committer to the
 .I "Plan 9"
-operating system fork. I committed various bug fixes and other
-development work during this period including working on a file-system
-check for an experimental new
-.I "Plan 9"
-filesystem.
+operating system. My work includes a file system check for
+a new file system, a new regular expression
+system library, improvements to the C compiler, and various
+user applications.
 .RE
 .KS
 .IP •
