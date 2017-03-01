@@ -28,6 +28,9 @@ and functional programming paradigms: C, Go, C++, Java,
 C#, SML, OCaml, Perl, ARM assembly, x86 assembly,
 and x86_64 assembly.
 .IP -
+Extensive experience with all levels of the software stack,
+from low-level programming to front-end web development.
+.IP -
 Experienced in Agile/Scrum work methodology.
 .IP -
 Advanced practical knowledge of data structure implementations.
