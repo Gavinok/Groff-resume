@@ -1,12 +1,13 @@
 .LT
 .LP
-Dear kCura,
+Dear Vail Systems,
 .PP
-I am seeking exciting new challenges as part of a team that fosters and values exploration, creativity, and clean code. I am interested in developing new technologies that apply the best ideas in novel ways to complex problems by breaking them down into simple pieces that are elegantly solved.
+I am seeking exciting new challenges as part of a team that fosters and values exploration, creativity, and elegant fast code. I am interested in developing new technologies that apply the best ideas in novel ways to complex problems by breaking them down into simple pieces that are elegantly solved.
 .PP
 I have extensive experience with all levels of the software stack, from low-level programming to front-end web development. As such I have knowledge of a number of paradigms, engineering solutions, and algorithms and can immediately make a positive contribution to many aspects of your company's technology.
 .PP
-Although I am comfortable with a number of languages I feel especially good about C#/.Net. I have found that it it is well-designed environment for getting work done efficiently and elegantly. Whereas my experience with C# has been primarily desktop application development with WPF, I would relish the opportunity to apply my experience to ASP.NET.
+Although I am comfortable with a number of languages I especially love C++ for its combination of abstraction without losing any of the low-level efficiency of plain C programming. C++11 especially has improved the language to the point where it is easy and enjoyable to get work done efficiently and elegantly. I would immediately be able to make an impact writing C++ code employing the latest idioms of the new standard either to update old code or to write clean maintainable new code.
+\"" especially good about C#/.Net. I have found that it it is well-designed environment for getting work done efficiently and elegantly. Whereas my experience with C# has been primarily desktop application development with WPF, I would relish the opportunity to apply my experience to ASP.NET.
 \"".PP
 \""I am skilled in multiple languages and complex software designs. I love to apply the great ideas and techniques of computer science to new problems and to be able to learn the latest new techniques and technologies that allow us to better tackle the complications of today's business domains.
 .PP

@@ -54,9 +54,18 @@ Passionate about following successful principles of library/API design.
 .I "Personal Project Work: January 2017-present"
 .RS
 .IP -
+Completed a assembler/emulator for the
+.I MIX
+computer architecture. This is the computer architecture used in
+the seminal computer science textbook
+.I "The Art of Computer Programming" .
+It can compile and execute all examples and exercises from
+.I TAOCP .
+.KE
+.IP -
 Created an 
 .I n -body
-simulator that models gravitational interactions
+simulator game that models gravitational interactions
 on the order of thousands of bodies. Uses velocity verlet integration
 together with a Barnes-Hut quad-tree data structure to reduce
 calculations to
@@ -64,25 +73,16 @@ calculations to
 O(n log (n))
 .EN
 complexity. Has a fully graphical front-end which allows for creation
-of new bodies/galaxies among other interactive features.
-.KE
-.IP -
-Wrote an assembler/emulator for the
-.I MIX
-computer architecture. This is the computer architecture used in
-the seminal computer science textbook
-.I "The Art of Computer Programming" .
-It can compile and execute all examples and exercises from
-.I TAOCP .
+of new bodies/galaxies among other interactive features. Written in C++
+using
+.I SDL
+and runs on Linux, macOS, Windows, and Plan 9.
 .IP -
 Worked on a C compiler that uses a 
 .I "continuation passing style"
 intermediate representation for the backend/optimization stage. Front
 end is complete, currently working on translation to
-.I CPS
-.IP -
-Completed various advanced data structure implementations in a
-number of languages: C, C++, Go, SML, and OCaml.
+.I CPS .
 .IP -
 I work on and am an active committer to the
 .I "Plan 9"
@@ -90,6 +90,12 @@ operating system. My work includes a file system check for
 a new file system, a new regular expression
 system library, improvements to the C compiler, and various
 user applications.
+.IP -
+Completed various advanced data structure implementations in a
+number of languages: C, C++, Go, SML, and OCaml. This included a
+contribution to the
+.I gods
+data structure library for Go.
 .RE
 .KS
 .IP •
