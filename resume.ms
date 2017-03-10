@@ -31,8 +31,6 @@ and x86_64 assembly.
 Extensive experience with all levels of the software stack,
 from low-level programming to front-end web development.
 .IP -
-Experienced in Agile/Scrum work methodology.
-.IP -
 Advanced practical knowledge of data structure implementations.
 .IP -
 Skilled experience with the various issues and pitfalls
@@ -92,10 +90,8 @@ system library, improvements to the C compiler, and various
 user applications.
 .IP -
 Completed various advanced data structure implementations in a
-number of languages: C, C++, Go, SML, and OCaml. This included a
-contribution to the
-.I gods
-data structure library for Go.
+number of languages: C, C++, Go, SML, and OCaml including contributions
+to open source data structure libraries.
 .RE
 .KS
 .IP •
@@ -112,10 +108,10 @@ accounting platform for the alternative investment community.
 .IP -
 Also worked on
 .I .NET
-suite of applications to help executives interface with main platform via
+suite of applications to help executives interface with the main
+platform via the
 .I "Microsoft Office"
-and
-.I Excel .
+software suite.
 .IP -
 Developed location search functionality for the CRM platform: Javascript front-end,
 Java/Oracle backend. Allowed fund managers to find clients along multiple search vectors.
@@ -125,7 +121,7 @@ Developed
 calendar integration with the CRM platform. Provided automatic syncing of Outlook meetings
 with the CRM.
 .I WPF \0 C#/
-frontend, interfacing with REST backend in Java.
+frontend, interfacing with a REST backend in Java.
 .RE
 .KS
 .IP •
@@ -136,14 +132,14 @@ Devops Engineer: October 2014–April 2015
 .R
 .RS
 .IP -
-Wrote programs/scripts to automate systems deployments
+Wrote programs to automate systems deployments
 and uptime management for Fortune 500 level corporations.
 .KE
 .IP -
 Primary development languages were Perl, Javascript, Bash, and a proprietary
 internal scripting language.
 .IP -
-Scale of automated management was on the order of hundreds of servers.
+Scale of automated management was on the order of thousands of servers.
 .RE
 .KS
 .IP •
@@ -190,7 +186,7 @@ Engineered formatting packages for published curriculum materials.
 Master's Degree in Mathematics: September 2007-December 2009
 .RS
 .IP -
-Worked on applicaitons of algebraic geometry to string theory. Specifically
+Worked on applications of algebraic geometry to string theory. Specifically
 Donaldson-Thomas invariants as a generalization of Gromov-Witten invariants.
 .KE
 .IP -
