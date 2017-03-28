@@ -24,9 +24,13 @@ tools, and ideas.
 .ps 10
 .IP -
 Expertise in a number of imperative, object-oriented,
-and functional programming paradigms: C, Go, C++, Java,
-C#, SML, OCaml, Perl, ARM assembly, x86 assembly,
+and functional programming languages: C, C++, Java, Ruby,
+Go, C#, SML, OCaml, Perl, ARM assembly, x86 assembly,
 and x86_64 assembly.
+.IP -
+Expertise with various libraries, frameworks, and techniques:
+OpenGL3, SDL2, Ruby on Rails, Boost, React, lock-free programming,
+machine learning, scalable architectures, and concurrency.
 .IP -
 Extensive experience with all levels of the software stack,
 from low-level programming to front-end web development.
@@ -38,7 +42,8 @@ of maintaining legacy code and reducing technical debt.
 .IP -
 Highly skilled in test driven development.
 .IP -
-Passionate about following successful principles of library/API design.
+Passionate about following good principles of library/API design
+and clean code structure.
 .sp .4
 .LP
 .ps 12
@@ -61,6 +66,16 @@ It can compile and execute all examples and exercises from
 .I TAOCP .
 .KE
 .IP -
+I am an active maintainer of and committer to the
+.I "Plan 9"
+operating system. My work during this period included improved
+performance, bug fixes, and added functionality to a new caching
+history preserving file system. This included a file system check
+as well as improved support for tagging and untagging history points.
+My previous work has included a new regular expression
+C library, improvements to the C compiler, and improvements
+to various areas of the OS.
+.IP -
 Created an 
 .I n -body
 simulator game that models gravitational interactions
@@ -70,7 +85,8 @@ calculations to
 .EQ
 O(n log (n))
 .EN
-complexity. Has a fully graphical front-end which allows for creation
+complexity while performing calculations in parallel for maximum speed.
+Has a fully graphical front-end which allows for creation
 of new bodies/galaxies among other interactive features. Written in C++
 using
 .I SDL
@@ -82,16 +98,9 @@ intermediate representation for the backend/optimization stage. Front
 end is complete, currently working on translation to
 .I CPS .
 .IP -
-I work on and am an active committer to the
-.I "Plan 9"
-operating system. My work includes a file system check for
-a new file system, a new regular expression
-system library, improvements to the C compiler, and various
-user applications.
-.IP -
-Completed various advanced data structure implementations in a
+Completed advanced data structure implementations in a
 number of languages: C, C++, Go, SML, and OCaml including contributions
-to open source data structure libraries.
+to open source libraries.
 .RE
 .KS
 .IP •
@@ -122,6 +131,10 @@ calendar integration with the CRM platform. Provided automatic syncing of Outloo
 with the CRM.
 .I WPF \0 C#/
 frontend, interfacing with a REST backend in Java.
+.IP -
+Was primary developer to support an internal
+.I "Ruby on Rails"
+application used for automated testing, continuous integration, and deployment and monitoring of testing and integration servers.
 .RE
 .KS
 .IP •
@@ -212,6 +225,7 @@ The Fibonacci Quarterly
 Volume 45, Number 3, August 2007.
 .RE
 .sp .4
+.KS
 .LP
 .ps 12
 .UL "Miscellaneous Achievements and Skills"
@@ -226,6 +240,7 @@ operating system. It provides the full
 regular expression syntax with guaranteed worst-case
 performance time that is linear in the length of the
 input.
+.KE
 .IP -
 I have published original number theory research: 
 under the title: Burns and Purcell,
