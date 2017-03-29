@@ -28,9 +28,10 @@ and functional programming languages: C, C++, Java, Ruby,
 Go, C#, SML, OCaml, Perl, ARM assembly, x86 assembly,
 and x86_64 assembly.
 .IP -
-Expertise with various libraries, frameworks, and techniques:
-OpenGL3, SDL2, Ruby on Rails, Boost, React, lock-free programming,
-machine learning, scalable architectures, and concurrency.
+Expertise with various libraries, frameworks, tools, and techniques:
+OpenGL3, SDL2, Ruby on Rails, Boost, React, Gradle, Maven,
+lock-free programming, scalable architectures, parallel architectures,
+NoSQL databases, and relational databases.
 .IP -
 Extensive experience with all levels of the software stack,
 from low-level programming to front-end web development.
