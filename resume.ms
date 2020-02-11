@@ -2,11 +2,11 @@
 .ds CH
 .ce 2
 .ps 20
-.UL "Benjamin Scher Purcell"
+.UL "Gavin Jaeger-Freeborn"
 .sp .3
 .ps 9
 .I
-.tl '5303 N. Rockwell St. Apt 1, Chicago IL 60625' \0 '(248) 622-1747—benjapurcell@gmail.com'
+.tl '2744 14th st SW Calgary, AB' \0 '(403) 919-9518—gavinfreeborn@gmail.com'
 .sp .5
 .LP
 .ps 12
