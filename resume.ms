@@ -194,10 +194,10 @@ Engineered formatting packages for published curriculum materials.
 .ps 10
 .KS
 .IP •
-.B "University of British Columbia" "—British Columbia, CA"
+.B "University of Victoria" "—British Columbia, CA"
 .br
 .I
-Master's Degree in Mathematics: September 2007-December 2009
+B.S Software Engineering: September 2017-Present
 .RS
 .IP -
 Worked on applications of algebraic geometry to string theory. Specifically
@@ -207,25 +207,6 @@ Donaldson-Thomas invariants as a generalization of Gromov-Witten invariants.
 Coursework complete but I did not complete the thesis for the degree.
 .RE
 .KS
-.IP •
-.B "Oberlin College" "—Oberlin, OH"
-.br
-.I
-Bachelor's Degree in Mathematics magna cum laude: September 2002-December 2006
-.RS
-.IP -
-Graduated with an honor's thesis on
-the category theory of groups.
-.KE
-.IP -
-Also completed original research in number theory which was 
-published in
-.I
-The Fibonacci Quarterly
-.R
-Volume 45, Number 3, August 2007.
-.RE
-.sp .4
 .KS
 .LP
 .ps 12
