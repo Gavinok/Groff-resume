@@ -8,23 +8,37 @@
 .fam Carlito
 ..
 
+.\" used to customize style of title
+.de tit
+.ce 3
+.ps 24
+.special
+\\$1
+.reg
+.sp .4
+.ps 12
+.I "\\$2"
+.br
+\\$3
+..
+
 .\" sections of resume
 .de sec
 .special 
-.ps 15
+.ps 16
 .style
 ..
 
 .\" normal font
 .de reg
 .gcolor black
-.ps 12
+.ps 13
 .style
 ..
 
 .\" smaller font
 .de small
-.ps 11
+.ps 12
 .style
 ..
 
@@ -33,6 +47,7 @@
 .de bul
 .IP \(bu 2
 .small
+.fam Carlito
 ..
 
 .\" subsection used in Experiance and Projects
@@ -65,7 +80,7 @@
 .\" -D for desctiption
 .\" -- end of oprions
 .pdfhref W -D mailto:\\$2 \
--- \\$2
+-- "\\$2"
 \\$3
 .br
 .small
