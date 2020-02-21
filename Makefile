@@ -7,7 +7,7 @@ clean:
 	rm -f *.ps *.pdf tmp.ms
 
 %.pdf:	%.ms
-	groff -ms -e -K utf8 -T pdf $< > $@
+	groff -mspdf -e -K utf8 -T pdf $< > $@
 
 # %.ps:	%.ms
 # 	groff -ms -e -K utf8 -T ps $< > $@
