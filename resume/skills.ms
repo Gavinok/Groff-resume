@@ -5,15 +5,15 @@ Technical Skill
 
 .B "Programming Languages" \
 " Java, C, C++, Python, Go"
-.sp -.6
+.sp -.5
 
 .B "Office Software" \
 " Adobi Photoshop, Inkscape, and Microsoft Office"
-.sp -.6
+.sp -.5
 
 .B "Operating Systems" \
 " Linux, and Windows"
-.sp -.6
+.sp -.5
 
 .B Tools \
 " Git, GDB, Vim"
