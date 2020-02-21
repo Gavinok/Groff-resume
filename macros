@@ -27,4 +27,11 @@
 .IP \(bu 2
 .ps 11
 ..
+
+.\" subsection used in Experiance and Projects
+.de ssec
+.reg
+.B "\\$1" " \\$2"
+.br
+..
 .style
