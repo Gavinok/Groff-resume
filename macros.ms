@@ -5,7 +5,7 @@
 ..
 
 .de style
-.fam P
+.fam Carlito
 ..
 
 .\" sections of resume
@@ -22,10 +22,17 @@
 .style
 ..
 
+.\" smaller font
+.de small
+.ps 11
+.style
+..
+
+
 .\" bullet entery
 .de bul
 .IP \(bu 2
-.ps 11
+.small
 ..
 
 .\" subsection used in Experiance and Projects
@@ -37,7 +44,7 @@
 
 .\" description of a ssec
 .de desc
-.SM
+.small
 .I "\\$1"
 ..
 
@@ -46,6 +53,24 @@
 \\$1
 .B "\\$2",
 \\$3
+..
+
+.\" references macro
+.de ref
+.reg
+.B "\\$1"
+.reg
+.\" produce a reference where 
+.\" W for web
+.\" -D for desctiption
+.\" -- end of oprions
+.pdfhref W -D mailto:\\$2 \
+-- \\$2
+\\$3
+.br
+.small
+\\$4
+.reg
 ..
 
 .style
