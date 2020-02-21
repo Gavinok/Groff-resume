@@ -6,6 +6,12 @@ all: coaching_resume.pdf programming_resume.pdf cover.pdf
 clean:
 	rm -f *.ps *.pdf tmp.ms
 
+
+# mspdf means use ms format with pdf extensions
+# -K 		convert unicode
+# -e 		enq preprocessor
+# utf8 		encoding
+# -T pdf 	sets the dev type to pdf
 %.pdf:	%.ms
 	groff -mspdf -e -K utf8 -T pdf $< > $@
 
