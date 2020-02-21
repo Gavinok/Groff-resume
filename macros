@@ -34,4 +34,10 @@
 .B "\\$1" " \\$2"
 .br
 ..
+
+.\" description of a ssec
+.de desc
+.SM
+.I "\\$1"
+..
 .style
