@@ -22,4 +22,9 @@
 .style
 ..
 
+.\" bullet entery
+.de bul
+.IP \(bu 2
+.ps 11
+..
 .style
