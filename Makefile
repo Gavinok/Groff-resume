@@ -1,6 +1,6 @@
 export GROFF_FONT_PATH=${PWD}/groff-carlito
 
-all: coaching_resume.pdf programming_resume.pdf cover.pdf
+all: coaching_resume.pdf programming_resume.pdf
 
 # all: coaching_resume.ps programming_resume.ps cover.ps
 
