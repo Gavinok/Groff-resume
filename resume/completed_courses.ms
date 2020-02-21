@@ -2,20 +2,20 @@
 .B "Completed Courses"
 .RS
 .sp -.2
-.IP \(bu 2
+.bul
 Fundamentals of Programming With Engineering Applications 2
-.IP \(bu 2
+.bul
 Introduction to Computer Architecture
-.IP \(bu 2
+.bul
 Digital Design
-.IP \(bu 2
+.bul
 Communication Networks
-.IP \(bu 2
+.bul
 Engineering System Software
-.IP \(bu 2
+.bul
 Algorithms and Data Structures 2
-.IP \(bu 2
+.bul
 Software Development Methods
-
 .RE
+.reg
 .sp .4
