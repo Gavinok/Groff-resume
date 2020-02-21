@@ -1,7 +1,7 @@
 .\" Start of Completed Courses
 .B "Completed Courses"
 .RS
-.sp -.2
+.sp -.1
 .bul
 Fundamentals of Programming With Engineering Applications 2
 .bul
