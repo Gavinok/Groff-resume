@@ -40,4 +40,12 @@
 .SM
 .I "\\$1"
 ..
+
+.\" used in Awards
+.de awd
+\\$1
+.B "\\$2",
+\\$3
+..
+
 .style
