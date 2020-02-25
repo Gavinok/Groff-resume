@@ -1,4 +1,4 @@
-export GROFF_FONT_PATH=${PWD}/groff-carlito
+export GROFF_FONT_PATH=${PWD}/groff-SouceSansPro
 
 all: coaching_resume.pdf programming_resume.pdf
 
