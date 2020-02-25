@@ -1,11 +1,11 @@
-.defcolor special rgb 0.1 0.1 0.9
+.defcolor special rgb 0.1 0.5 0.9
 
 .de special
 .gcolor special
 ..
 
 .de style
-.fam Carlito
+.fam SourceSansPro
 ..
 
 .\" used to customize style of title
@@ -45,9 +45,9 @@
 
 .\" bullet entery
 .de bul
-.IP \(bu 2
+.IP - 2
 .small
-.fam Carlito
+.style
 ..
 
 .\" subsection used in Experiance and Projects
