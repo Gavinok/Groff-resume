@@ -19,6 +19,6 @@ make
 Examples
 =
 
-[Programming](./programming_resume.pdf)
+[Programming Resume](./programming_resume.pdf)
 
-[Coaching](./coaching_resume.pdf)
+[Coaching Resume](./coaching_resume.pdf)
