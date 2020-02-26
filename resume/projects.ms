@@ -18,4 +18,3 @@ Using an arduino this monitors the users strokerate, speed, and distance travele
 .br .\" line break
 .small
 FAT based file system simulated using in Java
-.sp -.10
