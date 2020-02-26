@@ -15,3 +15,10 @@ Compilation
 ```
 make
 ```
+
+Examples
+=
+
+[Programming](./programming_resume.pdf)
+
+[Coaching](./coaching_resume.pdf)
