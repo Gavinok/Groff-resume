@@ -1,7 +1,12 @@
 .defcolor special rgb 0.1 0.5 0.9
+.defcolor normal rgb 0.3 0.3 0.3
 
 .de special
 .gcolor special
+..
+
+.de normal
+.gcolor normal
 ..
 
 .de style
@@ -14,11 +19,13 @@
 .ps 24
 .special
 \\$1
-.reg
-.sp .4
+.sp .5
 .ps 12
+.reg
+.small
 .I "\\$2"
 .br
+.sp .10
 \\$3
 ..
 
@@ -31,7 +38,7 @@
 
 .\" normal font
 .de reg
-.gcolor black
+.gcolor normal
 .ps 13
 .style
 ..
