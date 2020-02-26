@@ -1,5 +1,5 @@
 .\" Start of Completed Courses
-.B "Completed Courses"
+.BI "Completed Courses"
 .RS
 .sp -.1
 .bul
