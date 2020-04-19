@@ -1,10 +1,11 @@
+.KS
 .\" start of References
 .LP
 .sec
 References
 .reg
 
-.ref "Edgar Garza:" "heacoachccc@gmail.com" "(587)-215-9770" "Previous employer for the Lake Bonavista program"
+.ref "Edgar Garza:" "heacoachccc@gmail.com" "(587)-215-9770" "employer for the Lake Bonavista program and for coaching the Womans Canoe in 2016"
 
 .ref "Lynda Roberts:" "lyndaccc@gmail.com" "(404)-880-0602" "Previous employer for the Calgary Canoe Club"
 
@@ -22,3 +23,4 @@ References
 .small
 Manager of provincial injury prevention for Alberta Health Services
 .reg
+.KE
