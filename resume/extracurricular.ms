@@ -1,3 +1,4 @@
+.KS
 .\" start of Experiance
 .sec
 Extracurricular Activities
@@ -16,3 +17,4 @@ National Champion in Junior men's C2 200m, 500m, & 100m event (2017 - 2018)
 .bul
 National Medalist in Senior men's C2 200m & 500m (2019)
 .RE
+.KE
