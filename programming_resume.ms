@@ -1,4 +1,4 @@
-.so macros.ms
+.so macros.tmac
 .so resume/title.ms
 .so resume/education.ms
 
