@@ -1,6 +1,6 @@
 export GROFF_FONT_PATH=${PWD}/groff-SouceSansPro
 
-all: coaching_resume.pdf programming_resume.pdf
+all: coaching_resume.pdf programming_resume.pdf coaching_cover.pdf
 
 # all: coaching_resume.ps programming_resume.ps cover.ps
 
