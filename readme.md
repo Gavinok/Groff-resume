@@ -1,19 +1,19 @@
-## Resume
+# Resume
 
 This is my resume written in groff.
 
-## Requirements
+# Requirements
 
 - groff
 - GNU make
 
-## Compilation
+# Compilation
 
 ```
 make
 ```
 
-## Examples
+# Examples
 
 [Programming Resume](./programming_resume.pdf)
 
