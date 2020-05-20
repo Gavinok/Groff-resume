@@ -18,7 +18,7 @@ From 2013-2016 I acted as a seasonal assistant coach at the Calgary Canoe Club, 
 .IP - 2
 Repairing damaged boats.
 .IP - 2
-Keep track of attendance 
+Keep track of attendance
 .IP - 2
 Keep records of athlete progression.
 .IP - 2

@@ -11,7 +11,7 @@ Utilizes RLE encoding to encrypt and decrepit a given file
 
 .ssec "StrokeMonitor (C++)"
 .br
-.small 
+.small
 Using an arduino this monitors the users strokerate, speed, and distance traveled in a canoe or kayak
 
 .ssec "Filesystem-Emu (Java)"

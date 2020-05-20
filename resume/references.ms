@@ -13,7 +13,7 @@ References
 .reg
 .B "Deb Payne:"
 .reg
-.\" produce a reference where 
+.\" produce a reference where
 .\" W for web
 .\" -D for desctiption
 .\" -- end of oprions
