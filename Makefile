@@ -1,7 +1,7 @@
 export GROFF_FONT_PATH=${PWD}/groff-SouceSansPro
 
-SRCS=$(shell find -type f -name '*.ms' )
-TARGET := $(addsuffix .pdf,$(basename $(SRCS)))
+SRCS= *.ms
+TARGET := $(addsuffix .pdf,$(basename $(wildcard $(SRCS))))
 
 #.SUFFIXES:
 .SUFFIXES: .ms .pdf
@@ -20,7 +20,7 @@ clean:
 # utf8 		encoding
 # -T pdf 	sets the dev type to pdf
 %.pdf:	%.ms
-	groff -mspdf -e -K utf8 -T pdf $< > $@
+	groff -Tpdf -mspdf -e $< > $@
 
 # %.pdf:	%.dvi
 # 	dvipdf $< > $@
@@ -28,10 +28,14 @@ clean:
 # %.dvi:	%.ms
 # 	groff -mspdf -e -K utf8 -T dvi $< > $@
 
-%.html:	%.ms
-	groff -mspdf -e -K utf8 -T html $< > $@
+# %.pdf:	%.ps
+# 	ps2pdf $< > $@
 
 # %.ps:	%.ms
 # 	groff -ms -e -K utf8 -T ps $< > $@
+
+%.html:	%.ms
+	groff -mspdf -e -K utf8 -T html $< > $@
+
 
 .PHONY: clean all
