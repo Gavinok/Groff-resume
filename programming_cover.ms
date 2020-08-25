@@ -1,18 +1,21 @@
 .so macros.tmac
 
+.defcolor RED rgb 1 0.0 0.0
+.de TODO
+\m[RED]TODO\m[]: \\$1
+..
 .ds FAM SourceSansPro
 .nr PS 12
 .ds position Bachelor of Science Student Opportunite
 .ds recipient UNKNOWN
 
-.SM
-Gavin Jaeger-Freeborn
+.TODO "Complete And Edit This Coverletter"
 
 .LP
 Dear \*[recipient],
 
 .LP
-I am submitting my resume for consideration for the \*[position]. The resume provided indicates I student in Software Engineering at the University of Victoria. My previous experience, competencies and attributes described below should make me a great fit for these positions.
+I am submitting my resume for consideration for the \*[position]. The resume provided indicates I am a Software Engineering student at the University of Victoria. My previous experience, competencies and attributes described below should make me a great fit for these positions.
 
 .\" working with others
 .LP
