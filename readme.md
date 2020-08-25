@@ -4,7 +4,7 @@ This is my resume written in groff.
 
 # Requirements
 
-- groff
+- groff (1.22.4 required)
 - GNU make
 
 # Compilation
