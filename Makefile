@@ -20,7 +20,7 @@ clean:
 # utf8 		encoding
 # -T pdf 	sets the dev type to pdf
 %.pdf:	%.ms
-	groff -Tpdf -mspdf -e $< > $@
+	groff -Tpdf -mspdf $< > $@
 
 # %.pdf:	%.dvi
 # 	dvipdf $< > $@
@@ -35,7 +35,7 @@ clean:
 # 	groff -ms -e -K utf8 -T ps $< > $@
 
 %.html:	%.ms
-	groff -mspdf -e -K utf8 -T html $< > $@
+	groff -mspdf -K utf8 -T html $< > $@
 
 
 .PHONY: clean all
